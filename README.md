@@ -1,2 +1,1 @@
-# Fricia
-Bienvenidos a Fricia
+
